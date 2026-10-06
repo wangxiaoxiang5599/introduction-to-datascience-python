@@ -472,6 +472,7 @@ even if the Jupyter notebook included references to image files.
 Unfortunately, the default settings will result in a document
 that visually looks quite different from what the Jupyter notebook looked
 like. The font, page margins, and other details will appear different in the `.pdf` output.
+
 For command-line export, `nbconvert` offers two routes. The LaTeX route is:
 
 ```bash
